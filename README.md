@@ -1,4 +1,19 @@
-# React + Vite
+# Criador de Currículo
+
+Esse app busca trazer uma interface interativa para facilitar o usuário na hora de montar o seu currículo. Sendo possível adicionar os seus dados e customizar o design desse currículo. O usuário também poderá salva-lo como PDF ou imprimi-lo.
+
+### O que há na interface?
+
+- Seção para foto de perfil e dados pessoais
+- Seção para habilidades onde é possivel colocar o nível de proeficiencia
+- Seção para inserir a experiência profissional, sendo possível ocultá-la caso não tenha experiência
+- Seção para inserir a formação acadêmica
+- Seção para inserir os cursos complementares
+- Seção para inserir os idiomas falados
+- Seção para customização do design do currículo
+- Botão para imprimir
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
